@@ -1,0 +1,25 @@
+{
+  "name": "application-tracker",
+  "version": "1.0.0",
+  "description": "A way to organize applications that you have sent through connecting email and listening for confirmation emails",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlbiXD/application-tracker.git"
+  },
+  "keywords": [
+    "application",
+    "internship",
+    "tracker",
+    "organizer"
+  ],
+  "author": "Albi Zhaku",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlbiXD/application-tracker/issues"
+  },
+  "homepage": "https://github.com/AlbiXD/application-tracker#readme"
+}
